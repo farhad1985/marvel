@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "API.fetchCharacters():API.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Route.characters.url">
+            </PersistentString>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+            <PersistentString
+               value = "ts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HeroCell.config(model:):HeroCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;\(model.thumbnail.path).\(model.thumbnail.thumbnailExtension)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in API.fetchCharacters(completion:):API.swift">
+      </ContextState>
+      <ContextState
+         contextName = "API.hash.getter:API.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in API.fetchCharacters():API.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
